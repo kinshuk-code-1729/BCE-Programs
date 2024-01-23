@@ -2,7 +2,7 @@
  This repository contains some basic codes C/C++.
 
 ## Various Programming Basics discussed in _Basic Computer Engineering_
-- **Introduction to Algorithms :**
+- **Introduction to Algorithms**
   - Complexities and Flowchart
 - **Introduction to Programming**
   - Categories of Programming Languages
@@ -10,7 +10,7 @@
 - **Programming Paradigms**
   - Characteristics or Concepts of OOP
   - Procedure Oriented Programming VS object oriented Programming
-- **Introduction to C++:**
+- **Introduction to C++**
   - Character Set
   - Tokens
   - Precedence and Associativity
@@ -32,4 +32,4 @@
   - Overloading Functions & Operators
   - Types of Inheritance
   - Virtual functions
-- **Introduction to Data Structures.**
+- **Introduction to Data Structures**
